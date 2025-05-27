@@ -1,3 +1,3 @@
-# Hurtig_startups
-En hurtig starter template med log in og register, med javascript, css og en drop down menu
-Der vil blive lavet en test side, for folk some vil se det før de starter med det
+# LILLE START HJEMMESIDE
+
+HER ER DER EN LILLE SIDE HVOR MAN KAN FORSÆTTE OG ÆNDRE PÅ, DEN ER LAVET MED SMÅ TING OG MAN SKAL LAVE RESTEN SELV HVIS DET ER DET MAN VIL GØRE
